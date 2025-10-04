@@ -15,6 +15,7 @@ fonts_urls:
     - "https://fonts.googleapis.com/css?family=Kaushan+Script"
     - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
     - "https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
+    - "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css"
 
 # Set custom fonts
 fonts:
@@ -26,3 +27,7 @@ fonts:
     for: "serif"
   - name: "Roboto Slab"
     for: "body"
+  - name: "Pretendard"
+    for: "body"
+  - name: "Pretendard"
+    for: "heading"
