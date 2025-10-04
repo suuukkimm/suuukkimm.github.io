@@ -19,7 +19,7 @@ plugins:
 url    : "https://suuukkimm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : "Su Kim | Portfolio"
+title      : "Su Kim | 김수연"
 email      : sukim.syk@gmail.com #this is also the email contact forms will go to
 description: "Convention & Exhibition Planner | Developing Skills in AI Product & Service Planning"
 author     : Su Kim
