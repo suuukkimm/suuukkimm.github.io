@@ -19,10 +19,10 @@ plugins:
 url    : "https://suuukkimm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : "SU Portfolio"
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : "Su Kim | Portfolio"
+email      : sukim.syk@gmail.com #this is also the email contact forms will go to
+description: "Convention & Exhibition Planner | Developing Skills in AI Product & Service Planning"
+author     : Su Kim
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
