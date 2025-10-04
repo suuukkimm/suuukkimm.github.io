@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Welcome to Su's Portfolio!
     text: Let's get in touch :)
     button: Find out more about Su
-    buttonlink: "#About Su"
+    buttonlink: "#Services"
 
-  About Su:
+  Services:
     title: "About Su"
     text: "My vision is to bridge creativity, technology, and social value to designing services and experiences that are not only innovative but also meaningful and socially impactful."
-    section: About Su
+    section: Services
     list:
       - title: "Convention & Exhibition Planner"
         desc: "With 6+ years as a Convention & Exhibition Planner, I have delivered global event experiences that connect cultures and ideas, specialising in government-level forums, overseas pavilions, and large-scale conventions. Skilled in project management, strategic planning, and stakeholder coordination, supported by a strong background in cross-cultural communication."
