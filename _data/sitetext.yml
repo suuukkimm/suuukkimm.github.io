@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to Su's Portfolio!
+    text: Let's get in touch :)
+    button: Find out more about Su
     buttonlink: "#services"
 
   services:
