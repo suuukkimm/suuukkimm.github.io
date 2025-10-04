@@ -14,21 +14,21 @@ en: &DEFAULT_EN
     title: Welcome to Su's Portfolio!
     text: Let's get in touch :)
     button: Find out more about Su
-    buttonlink: "#services"
+    buttonlink: "#About Su"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  About Su:
+    title: "About Su"
+    text: "With 6+ years as a Convention & Exhibition Planner, I have delivered global event experiences that connect cultures and ideas, specialising in government-level forums, overseas pavilions, and large-scale conventions. Skilled in project management, strategic planning, and stakeholder coordination, supported by a strong background in cross-cultural communication.<br>Currently, I am pursuing a 91-day AI Service Product Planning Program to expand my capabilities into digital services. This program focuses on AI-driven service design, business modelling, and user-centred UX, enabling me to bridge proven event management skills with innovative technologies.<br>My vision is to bridge creativity, technology, and social value to designing services and experiences that are not only innovative but also meaningful and socially impactful."
+    section: About Su
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Convention & Exhibition Planner"
+        desc: "With 6+ years as a Convention & Exhibition Planner, I have delivered global event experiences that connect cultures and ideas, specialising in government-level forums, overseas pavilions, and large-scale conventions. Skilled in project management, strategic planning, and stakeholder coordination, supported by a strong background in cross-cultural communication."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "AI Service Product Planning"
+        desc: "Currently, I am pursuing a 91-day AI Service Product Planning Program to expand my capabilities into digital services. This program focuses on AI-driven service design, business modelling, and user-centred UX, enabling me to bridge proven event management skills with innovative technologies. "
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[linkedin](https://www.linkedin.com/in/sukim-kr/)"
+        desc: "Take a look at my LinkedIn profile."
         icon: fab fa-markdown
 
   portfolio:
