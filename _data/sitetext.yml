@@ -9,7 +9,7 @@
 
 # English [default] (https://localizely.com/language-code/en/)
 # -----------------
-en: &DEFAULT_EN
+en-US: &DEFAULT_EN
   header:
     title: Welcome to Su's Portfolio!
     text: Let's get in touch :)
